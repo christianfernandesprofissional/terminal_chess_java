@@ -83,8 +83,24 @@ public class UI {
 
 		for (int i = 0; i < pieces.length; i++) {
 			System.out.print(8 - i + " ");
+			
+		
+			
 			for (int j = 0; j < pieces.length; j++) {
+				
+			/*
+				if(i%2 == 1 && j%2 == 0) {
+					System.out.print(ANSI_WHITE_BACKGROUND);//-------------------------------test
+				}
+			
+				
+				if(j%2 == 1 && i%2 == 0) {
+					System.out.print(ANSI_WHITE_BACKGROUND);//-------------------------------test
+				}
+			*/
+				
 				printPieces(pieces[i][j], false);
+				
 			}
 			System.out.println();
 		}
@@ -95,6 +111,9 @@ public class UI {
 	public static void printBoard(ChessPiece[][] pieces, boolean[][] possibleMoves) {
 
 		for (int i = 0; i < pieces.length; i++) {
+			
+			
+			
 			System.out.print(8 - i + " ");
 			for (int j = 0; j < pieces.length; j++) {
 				printPieces(pieces[i][j], possibleMoves[i][j]);
@@ -116,7 +135,7 @@ public class UI {
 			if (piece.getColor() == Color.WHITE) {
 				System.out.print(ANSI_WHITE + piece + ANSI_RESET);
 			} else {
-				System.out.print(ANSI_YELLOW + piece + ANSI_RESET);
+				System.out.print(ANSI_GREEN + piece + ANSI_RESET);
 			}
 		}
 
