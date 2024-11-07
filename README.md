@@ -1,9 +1,4 @@
-<h2>Terminal chess made using Java</h2> 
-<br>
+# TERMINAL CHESS
 
-<div>
-  <p> This project was made to develop skills using OOP.</p>
-  <p>If you have any suggestions to improve it, feel free to share!</p>
-</div>
-
-
+This project was made to develop skills using OOP.  
+If you have any suggestions to improve it, feel free to share!
