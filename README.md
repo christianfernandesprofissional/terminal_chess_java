@@ -3,7 +3,7 @@
 
 <div id="portugues">
   
-# XADREZ DE TERMINAL
+# XADREZ DE TERMINAL &#9812; &#9813; &#9814; &#9815; &#9816; &#9817;
 
 O projeto do Xadrez de terminal, foi feito para me ajudar no desenvolvimento de habilidades com Programação Orientada a Objetos utilizando a linguagem Java. 
 No projeto estão contidos todos os pilares da programação (Abstração, Polimorfismo, Encapsulamento e Herança) . 
@@ -65,7 +65,7 @@ Caso a defesa não seja possível, ocorre um CHEQUE-MATE, e o jogo acaba.
 
 <div id="ingles">
   
-# TERMINAL CHESS 
+# TERMINAL CHESS &#9812; &#9813; &#9814; &#9815; &#9816; &#9817;
 
 The Terminal Chess project was designed to help me develop skills with Object Oriented Programming using the Java language. 
 The project contains all the pillars of programming (Abstraction, Polymorphism, Encapsulation and Inheritance).
