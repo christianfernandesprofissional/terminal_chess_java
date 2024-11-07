@@ -1,6 +1,7 @@
 
-[Versão em português](#ingles)
-<div id="ingles"> 
+[Versão em português](#portugues)
+<div id="ingles">
+  
 # TERMINAL CHESS 
 
 This project was made to develop skills using OOP.  
