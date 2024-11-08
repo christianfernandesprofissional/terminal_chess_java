@@ -17,6 +17,10 @@ No projeto estão contidos todos os pilares da programação (Abstração, Polim
 
 <br>
 
+### Requisitos
+
+- Java JDK
+
 ### Como rodar na sua máquina?
 
 - No terminal do seu computador clone o repositório usando o comando abaixo na pasta desejada:  
@@ -84,9 +88,14 @@ Caso a defesa não seja possível, ocorre um CHEQUE-MATE, e o jogo acaba.
 
 <br>
 
+**Espero que você se divirta!** :smiley:
+
+Caso você tenha alguma sugestão de melhoria ou algum comentário sobre o jogo,  
+sinta-se livre para entrar em contato através do email: ``christianfernandesprofissional@gmail.com``.
+
 </div>
 
-
+<br><br>
 
 ***
 
@@ -105,6 +114,31 @@ The project contains all the pillars of programming (Abstraction, Polymorphism, 
 - Eclipse IDE
 
 <br>
+
+### Como rodar na sua máquina?
+
+- In your computer's terminal, clone the repository using the command below in the desired folder:  
+
+        git clone https://github.com/christianfernandesprofissional/terminal_chess_java.git
+
+- After cloning, go to:
+
+          .\terminal_chess_java\src\application  
+
+- Copy the Program.java file to:
+
+          .\terminal_chess_java\src
+
+- Open the terminal in this folder and type the command:
+  
+          javac Program.java
+  
+
+- Soon after, the game will be ready to start, to start the game type:
+
+          java Program.java
+
+  ***
 
 ### How does the game work?
 
@@ -145,6 +179,15 @@ If the defense is not possible, a CHECKMATE occurs, and the game ends.
 ![Game Start](/assets/checkmate.png "CHECKMATE")
 
 <br>
+
+**Hope you have fun!** :smiley:
+
+If you have any suggestions for improvements or comments about the game,
+feel free to get in touch via email: ``christianfernandesprofissional@gmail.com``.
+
+</div>
+
+<br><br>
 
 </div>
 
