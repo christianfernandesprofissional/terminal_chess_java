@@ -123,7 +123,7 @@ The project contains all the pillars of programming (Abstraction, Polymorphism, 
 
 <br>
 
-### Como rodar na sua máquina?
+### How to run it on your machine?
 
 - In your computer's terminal, clone the repository using the command below in the desired folder:  
 
