@@ -17,6 +17,33 @@ No projeto estão contidos todos os pilares da programação (Abstração, Polim
 
 <br>
 
+### Como rodar na sua máquina?
+
+- No terminal do seu computador clone o repositório usando o comando abaixo na pasta desejada:  
+
+        git clone https://github.com/christianfernandesprofissional/terminal_chess_java.git
+
+- Após a clonagem entre vá em:
+
+          .\terminal_chess_java\src\application  
+
+- Copie o arquivo Program.java para
+
+          .\terminal_chess_java\src
+
+- Abra o terminal nesta pasta e digite o comando:
+  
+          javac Program.java
+  
+
+- Logo após, o jogo estará pronto para ser iniciado, para iniciar o jogo digite:
+
+          java Program.java
+
+  ***
+
+<br>
+
 ### Como o jogo funciona?
 
 No jogo é possível jogar com dois jogadores, seguindo todas as regras contidas no xadrez, inclusive regras adicionais que são menos conhecidas como o Roque e o En Passant.   
