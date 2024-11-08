@@ -21,6 +21,8 @@ No projeto estão contidos todos os pilares da programação (Abstração, Polim
 
 - Java JDK
 
+<br>
+
 ### Como rodar na sua máquina?
 
 - No terminal do seu computador clone o repositório usando o comando abaixo na pasta desejada:  
@@ -112,6 +114,12 @@ The project contains all the pillars of programming (Abstraction, Polymorphism, 
 
 - JAVA 21
 - Eclipse IDE
+
+<br>
+
+### Requirements
+
+- Java JDK
 
 <br>
 
